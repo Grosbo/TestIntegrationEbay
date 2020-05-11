@@ -1,0 +1,16 @@
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\bin\Debug\netcoreapp3.1\EbaySandboxIntegration.exe
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\bin\Debug\netcoreapp3.1\EbaySandboxIntegration.deps.json
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\bin\Debug\netcoreapp3.1\EbaySandboxIntegration.runtimeconfig.json
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\bin\Debug\netcoreapp3.1\EbaySandboxIntegration.runtimeconfig.dev.json
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\bin\Debug\netcoreapp3.1\EbaySandboxIntegration.dll
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\bin\Debug\netcoreapp3.1\EbaySandboxIntegration.pdb
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\obj\Debug\netcoreapp3.1\EbaySandboxIntegration.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\obj\Debug\netcoreapp3.1\EbaySandboxIntegration.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\obj\Debug\netcoreapp3.1\EbaySandboxIntegration.AssemblyInfo.cs
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\obj\Debug\netcoreapp3.1\EbaySandboxIntegration.dll
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\obj\Debug\netcoreapp3.1\EbaySandboxIntegration.pdb
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\obj\Debug\netcoreapp3.1\EbaySandboxIntegration.genruntimeconfig.cache
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\obj\Debug\netcoreapp3.1\EbaySandboxIntegration.csproj.CopyComplete
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\EbaySandboxIntegration\EbaySandboxIntegration\obj\Debug\netcoreapp3.1\EbaySandboxIntegration.csproj.CoreCompileInputs.cache
